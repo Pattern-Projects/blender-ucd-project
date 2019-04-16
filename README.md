@@ -1,15 +1,15 @@
-# Your Project's Name
+# Blender Enthusiast
 
-One or two paragraphs providing an overview of your project.
+An information website for Blender software. 
+It gives a quality overview of the open source software.
+Users can learn how to use Blender, see example uses and get involved in developing the software.
+They can also download the software.
 
-Essentially, this part is your sales pitch.
- 
 ## UX
  
-Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
-
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
-- As a user type, I want to perform an action, so that I can achieve a goal.  
+### Users 
+Users make up 3D artists, educators, software developers and students of all kinds. 
+They come to the website with questions in need of answering.
 
 ### User Stories
 1. A student user wants to learn more about the blender software
@@ -22,8 +22,14 @@ In particular, as part of this section we recommend that you provide a list of U
 8. An education professional user wants to share learning material with their students
 9. A developer user wants to become involved in the developing of blender software
 
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
+### Mockups
 
+[Home](https://www.figma.com/file/BAEdmRXdAFKWjGLucREMVBd0/Blender-Enthusiast?node-id=0%3A1)  
+[About](https://www.figma.com/file/BAEdmRXdAFKWjGLucREMVBd0/Blender-Enthusiast?node-id=4%3A83)  
+[Get Involved](https://www.figma.com/file/BAEdmRXdAFKWjGLucREMVBd0/Blender-Enthusiast?node-id=4%3A21)  
+[In Use](https://www.figma.com/file/BAEdmRXdAFKWjGLucREMVBd0/Blender-Enthusiast?node-id=6%3A97)  
+[Learn](https://www.figma.com/file/BAEdmRXdAFKWjGLucREMVBd0/Blender-Enthusiast?node-id=6%3A173)  
+ 
 ## Features
 
 In this section, you should go over the different parts of your project, and describe each in a sentence or so.
@@ -43,10 +49,18 @@ In addition, you may also use this section to discuss plans for additional featu
 
 In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
 
-- [JQuery](https://jquery.com)
-    - The project uses **JQuery** to simplify DOM manipulation.
-
-
+- [Figma](https://www.figma.com)
+    - Development made use of **figma** for creating mockups.
+- [Bootstrap](https://getbootstrap.com/)
+    - HTML and CSS Framework from **Bootstrap**
+- [Font Awesome](https://fontawesome.com/)
+    - Icons used are sourced from **Font Awesome**
+- [Cloud9](https://c9.io/)
+    - This project was built using the **cloud9** IDE
+- [Github](https://github.com/)
+    - Repository hosted on **Github**
+- [Colour Scheme Designer](https://colorschemedesigner.com/csd-3.5/)
+    - Colour scheme developed using **Colour Scheme Designer**
 ## Testing
 
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
@@ -90,3 +104,10 @@ In addition, if it is not obvious, you should also describe how to run your code
 ### Acknowledgements
 
 - I received inspiration for this project from X
+
+- Andrew Price
+- Ton Roosendaal
+- Blender Institute
+
+- Suen Owonikoko
+- Code Institute
