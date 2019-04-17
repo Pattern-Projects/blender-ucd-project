@@ -33,6 +33,25 @@ They come to the website with questions in need of answering.
 ## Features
 
 In this section, you should go over the different parts of your project, and describe each in a sentence or so.
+### Planned Features
+- Documentation - ReadMe File
+- Bootstrap - HTML, CSS Framework
+    - Grid System - Columns and Rows
+    - Cards
+    - Icons
+    - Animations
+- Responsive design - Mobile First
+- Large Landing Page - Full screen landing image
+- Semantic HTML - nav, article, etc
+- Call to Action - Download Button
+- Alert - Open Movie Call Out
+- Social Buttons - Twitter, Discord, Linkedin
+- Feedback Form
+- Colour Scheme
+- Testing
+- Git - Version Control System
+- GitHub - Remote Repository
+- Deployed - Hosted on Github Pages
  
 ### Existing Features
 - Feature 1 - allows users X to achieve Y, by having them fill out Z
@@ -56,11 +75,16 @@ In this section, you should mention all of the languages, frameworks, libraries,
 - [Font Awesome](https://fontawesome.com/)
     - Icons used are sourced from **Font Awesome**
 - [Cloud9](https://c9.io/)
-    - This project was built using the **cloud9** IDE
+    - This project was built using the **Cloud9** IDE
 - [Github](https://github.com/)
     - Repository hosted on **Github**
 - [Colour Scheme Designer](https://colorschemedesigner.com/csd-3.5/)
     - Colour scheme developed using **Colour Scheme Designer**
+- [Google PageSpeed Insight](https://developers.google.com/speed/pagespeed/insights/)
+    - Used to test the websites performance efficiency
+- [Nu HTML checker](https://validator.w3.org/nu/)
+    - Used to test the website for errors
+
 ## Testing
 
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
@@ -96,10 +120,11 @@ In addition, if it is not obvious, you should also describe how to run your code
 ## Credits
 
 ### Content
-- The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
+- Some of the text on the website has been copied from [blender.org](https://www.blender.org/)
 
 ### Media
-- The photos used in this site were obtained from ...
+- The images for the website are taken from [blender.org](https://www.blender.org/)
+- The logo for the website is an edit of the logo from [blender.org](https://www.blender.org/)
 
 ### Acknowledgements
 
