@@ -8,7 +8,7 @@ They can also download the software.
 ## UX
  
 ### Users 
-Users make up 3D artists, educators, software developers and students of all kinds. 
+Expected users of the website include 3D artists, educators, software developers and students of all kinds. 
 They come to the website with questions in need of answering.
 
 ### User Stories
@@ -34,7 +34,7 @@ They come to the website with questions in need of answering.
 
 In this section, you should go over the different parts of your project, and describe each in a sentence or so.
 ### Planned Features
-- Documentation - ReadMe File
+- Documentation - ReadMe File & Mockups
 - Bootstrap - HTML, CSS Framework
     - Grid System - Columns and Rows
     - Cards
