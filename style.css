@@ -4,6 +4,26 @@ body {
 }
 
 footer {
-    background-color: blue;
-    color:#fff;
+    background-color: #0E548B;
+    color:#f2f2f2;
+    padding: 10px;
+    text-align: center;
 }
+
+footer a{
+    color: #f2f2f2;
+}
+
+footer a:hover{
+    color: #cce;
+}
+
+.text-container{
+    margin: 0 auto;
+    width:300px;
+}
+
+.footer-socials{
+    font-size: 2rem;
+}
+
