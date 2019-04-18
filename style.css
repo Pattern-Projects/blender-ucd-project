@@ -2,3 +2,8 @@ body {
     font-family: 'Roboto', sans-serif;
     padding: 0;
 }
+
+footer {
+    background-color: blue;
+    color:#fff;
+}
