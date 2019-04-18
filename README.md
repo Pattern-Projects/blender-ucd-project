@@ -26,7 +26,7 @@ They come to the website with questions in need of answering.
 
 [Home](https://www.figma.com/file/BAEdmRXdAFKWjGLucREMVBd0/Blender-Enthusiast?node-id=0%3A1)  
 [About](https://www.figma.com/file/BAEdmRXdAFKWjGLucREMVBd0/Blender-Enthusiast?node-id=4%3A83)  
-[Get Involved](https://www.figma.com/file/BAEdmRXdAFKWjGLucREMVBd0/Blender-Enthusiast?node-id=4%3A21)  
+[Help Out](https://www.figma.com/file/BAEdmRXdAFKWjGLucREMVBd0/Blender-Enthusiast?node-id=4%3A21)  
 [In Use](https://www.figma.com/file/BAEdmRXdAFKWjGLucREMVBd0/Blender-Enthusiast?node-id=6%3A97)  
 [Learn](https://www.figma.com/file/BAEdmRXdAFKWjGLucREMVBd0/Blender-Enthusiast?node-id=6%3A173)  
  
