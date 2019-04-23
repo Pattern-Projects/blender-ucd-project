@@ -1,8 +1,59 @@
+/*-----------------------Body-----------------------*/
 body {
     font-family: 'Roboto', sans-serif;
     padding: 0;
 }
 
+.container-content{
+    margin: auto;
+}
+
+.container,
+.container-fluid,
+row {
+	margin: 0;
+	padding: 0
+}
+/*-----------------------Body-----------------------*/
+/*-----------------------Header-----------------------*/
+
+ #home-header {
+     height: 80vh;
+
+     background: url("assets/road.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+     color:#f2f2f2;
+ }
+
+
+/*-----------------------Header-----------------------*/
+/*-----------------------Call To Action-----------------------*/
+
+.cta-download{
+    background-color: #f2f2f2;
+    padding-top:25px;
+    padding-bottom:25px;
+    
+}
+
+/*-----------------------Call To Action-----------------------*/
+/*-----------------------Cards-----------------------*/
+
+.card img{
+    width: 100%;
+}
+
+/*-----------------------Cards-----------------------*/
+
+/*-----------------------Footer-----------------------*/
 footer {
     background-color: #0E548B;
     color:#f2f2f2;
@@ -27,3 +78,36 @@ footer a:hover{
     font-size: 2rem;
 }
 
+/*-----------------------Footer-----------------------*/
+
+/*-----------------------Responsive-----------------------*/
+/*// Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) {
+    .container-content{
+        width: 576px;
+    }
+}
+
+/*// Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) {
+    .container-content{
+        width: 768px;
+    }
+}
+
+/*// Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) {
+        .container-content{
+        width: 992px;
+    }
+
+}
+
+/*// Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+    .container-content{
+        width: 992px;
+    }
+    
+}
+/*-----------------------Responsive-----------------------*/

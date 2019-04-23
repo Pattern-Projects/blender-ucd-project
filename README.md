@@ -54,8 +54,19 @@ In this section, you should go over the different parts of your project, and des
 - Deployed - Hosted on Github Pages
  
 ### Existing Features
-- Feature 1 - allows users X to achieve Y, by having them fill out Z
-- ...
+- Documentation - ReadMe File & Mockups
+- Bootstrap - HTML, CSS Framework
+    - Grid System - Columns and Rows
+    - Cards
+    - Icons
+- Responsive design - Mobile First
+- Large Landing Page - Full screen landing image
+- Semantic HTML - nav, article, etc
+- Call to Action - Download Button
+- Alert - Open Movie Call Out
+- Social Buttons - Twitter, Discord, Linkedin
+- Git - Version Control System
+- GitHub - Remote Repository
 
 For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
 
