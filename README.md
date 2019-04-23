@@ -48,6 +48,8 @@ In this section, you should go over the different parts of your project, and des
 - Social Buttons - Twitter, Discord, Linkedin
 - Feedback Form
 - Colour Scheme
+- Custom Logo
+- Favicon
 - Testing
 - Git - Version Control System
 - GitHub - Remote Repository
@@ -65,6 +67,8 @@ In this section, you should go over the different parts of your project, and des
 - Call to Action - Download Button
 - Alert - Open Movie Call Out
 - Social Buttons - Twitter, Discord, Linkedin
+- Custom Logo
+- Favicon
 - Git - Version Control System
 - GitHub - Remote Repository
 
@@ -135,7 +139,6 @@ In addition, if it is not obvious, you should also describe how to run your code
 
 ### Media
 - The images for the website are taken from [blender.org](https://www.blender.org/)
-- The logo for the website is an edit of the logo from [blender.org](https://www.blender.org/)
 
 ### Acknowledgements
 
