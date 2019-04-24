@@ -69,6 +69,7 @@ In this section, you should go over the different parts of your project, and des
 - UX elements
     - User Flow
     - Transitions
+    - Smooth Scrolling
 - Large Landing Page - Full screen landing image
 - Semantic HTML - nav, article, etc
 - Call to Action - Download Button

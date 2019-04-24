@@ -32,6 +32,10 @@ a{
     display: none;
 }
 
+.alert{
+    margin-bottom: 0.2rem;
+}
+
 .navbar-light .navbar-nav .nav-link {
     color: rgba(0,0,0,.5);
     transition: all 0.5s;
@@ -90,6 +94,11 @@ a{
 
 .link-blue{
     color: #007bff;
+    transition: color 0.5s;
+}
+
+.link-blue:hover{
+    color: #EA7600;
 }
 /*-----------------------Call To Action-----------------------*/
 /*-----------------------Cards-----------------------*/
@@ -111,10 +120,11 @@ footer {
 
 footer a{
     color: #f2f2f2;
+    transition: all 0.5s;
 }
 
 footer a:hover{
-    color: #cce;
+    color: #EA7600;
 }
 
 .text-container{
@@ -149,7 +159,7 @@ footer a:hover{
     }
     
     #home-header {
-         height: 86vh;
+         height: 87vh;
     }
 }
 
@@ -160,7 +170,7 @@ footer a:hover{
     }
 
     #home-header {
-         height: 86vh;
+         height: 88vh;
     }
 }
 
