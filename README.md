@@ -142,14 +142,25 @@ In addition, if it is not obvious, you should also describe how to run your code
 ## Credits
 
 ### Content
-- Some of the text on the website has been copied from [blender.org](https://www.blender.org/)
+Some of the text on the website has been copied from:  
+- [blender.org](https://www.blender.org/)
 
 ### Media
-- The images for the website are taken from [blender.org](https://www.blender.org/)
+The images for the website are taken from:
+- [blender.org](https://www.blender.org/)
+- [Manuel Peter](https://www.artstation.com/manuel-peter)
+- [Matuesz Wielgus](https://www.artstation.com/mateusz_wielgus)
+- [Guilherme Henrique](https://www.artstation.com/sepultura)
+- [Lukas Walzer](https://www.artstation.com/lukas_walzer)
+- [Rico Cilliers](https://www.artstation.com/ricocilliers)
+- [Lester Banks](https://lesterbanks.com/2014/10/demolishing-building-blender/)
+- [LinkedIn Learning](https://www.linkedin.com/learning/sculpting-a-game-asset-in-blender)
+- [Udemy](https://www.udemy.com/character-animation-for-beginners/)
+- [User Elbrujodelatribu - Stack Exchange](https://blender.stackexchange.com/questions/5593/any-good-free-materials-libraries-online)
 
 ### Acknowledgements
 
-- I received inspiration for this project from X
+Thank you to the following for inspiration, motivation and the direction I needed:
 
 - Andrew Price
 - Ton Roosendaal

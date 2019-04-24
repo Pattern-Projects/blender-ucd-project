@@ -14,6 +14,10 @@ body {
 	margin: 0;
 	padding: 0
 }
+
+a{
+    color: #f2f2f2;
+}
 /*-----------------------Body-----------------------*/
 /*-----------------------Header-----------------------*/
 
@@ -43,19 +47,11 @@ body {
 /*-----------------------Header-----------------------*/
 /*-----------------------Call To Action-----------------------*/
 
-.cta-download{
-    background-color: #f2f2f2;
-    padding-top:25px;
-    padding-bottom:25px;
-    
-}
-
 .read-on{
     color: #f2f2f2;
     position: absolute;
     font-size: 3rem;
     bottom: 10px;
-    -webkit-transition: all 0.5s; /* Safari */
     transition: all 0.5s;
 }
 
@@ -63,6 +59,21 @@ body {
     text-decoration: none;
     font-size: 3.5rem;
     color: #EA7600;
+}
+
+.cta-download{
+    background-color: #f2f2f2;
+    padding-top:25px;
+    padding-bottom:25px;
+    
+}
+
+.cta-download a{
+    color: #212529;
+}
+
+.link-blue{
+    color: #007bff;
 }
 /*-----------------------Call To Action-----------------------*/
 /*-----------------------Cards-----------------------*/
