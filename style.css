@@ -26,6 +26,11 @@ a{
 /*-----------------------Body-----------------------*/
 /*-----------------------Header-----------------------*/
 
+/*Spring Movie Call Out*/
+.spring{
+    display: none;
+}
+
 .logo{
     height: 50px;
 }
@@ -131,6 +136,11 @@ footer a:hover{
     .container-content{
         width: 768px;
     }
+    
+    /*Spring Movie Call Out*/
+    .spring{
+    display: block;
+}
 }
 
 /*// Large devices (desktops, 992px and up)*/
