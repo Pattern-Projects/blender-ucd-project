@@ -6,11 +6,12 @@ html {
 body {
     font-family: 'Roboto', sans-serif;
     padding: 0;
-    
+
 }
 
 .container-content{
     margin: auto;
+    padding:1em;
 }
 
 .container,
@@ -31,12 +32,17 @@ a{
     display: none;
 }
 
+.navbar-light .navbar-nav .nav-link {
+    color: rgba(0,0,0,.5);
+    transition: all 0.5s;
+}
+
 .logo{
     height: 50px;
 }
 
  #home-header {
-     height: 80vh;
+     height: 88vh;
 
      background: url("assets/road.jpg") no-repeat center center fixed;
     -webkit-background-size: cover;
@@ -62,7 +68,7 @@ a{
     position: absolute;
     font-size: 3rem;
     bottom: 10px;
-    transition: all 0.5s;
+    transition: all 0.8s;
 }
 
 .read-on:hover{
@@ -140,7 +146,11 @@ footer a:hover{
     /*Spring Movie Call Out*/
     .spring{
     display: block;
-}
+    }
+    
+    #home-header {
+         height: 86vh;
+    }
 }
 
 /*// Large devices (desktops, 992px and up)*/
@@ -149,6 +159,9 @@ footer a:hover{
         width: 992px;
     }
 
+    #home-header {
+         height: 86vh;
+    }
 }
 
 /*// Extra large devices (large desktops, 1200px and up)*/
