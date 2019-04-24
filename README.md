@@ -39,8 +39,12 @@ In this section, you should go over the different parts of your project, and des
     - Grid System - Columns and Rows
     - Cards
     - Icons
-    - Animations
 - Responsive design - Mobile First
+- UX elements
+    - User Flow
+    - Animations
+    - Transitions
+- Accesibility
 - Large Landing Page - Full screen landing image
 - Semantic HTML - nav, article, etc
 - Call to Action - Download Button
@@ -62,6 +66,9 @@ In this section, you should go over the different parts of your project, and des
     - Cards
     - Icons
 - Responsive design - Mobile First
+- UX elements
+    - User Flow
+    - Transitions
 - Large Landing Page - Full screen landing image
 - Semantic HTML - nav, article, etc
 - Call to Action - Download Button

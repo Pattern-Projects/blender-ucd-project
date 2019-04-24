@@ -33,8 +33,10 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+    position: relative;
 
-     color:#f2f2f2;
+    color:#f2f2f2;
+    
  }
 
 
@@ -48,6 +50,20 @@ body {
     
 }
 
+.read-on{
+    color: #f2f2f2;
+    position: absolute;
+    font-size: 3rem;
+    bottom: 10px;
+    -webkit-transition: all 0.5s; /* Safari */
+    transition: all 0.5s;
+}
+
+.read-on:hover{
+    text-decoration: none;
+    font-size: 3.5rem;
+    color: #EA7600;
+}
 /*-----------------------Call To Action-----------------------*/
 /*-----------------------Cards-----------------------*/
 
