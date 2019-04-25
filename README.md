@@ -24,11 +24,11 @@ They come to the website with questions in need of answering.
 
 ### Mockups
 
-[Home](https://www.figma.com/file/BAEdmRXdAFKWjGLucREMVBd0/Blender-Enthusiast?node-id=0%3A1)  
-[About](https://www.figma.com/file/BAEdmRXdAFKWjGLucREMVBd0/Blender-Enthusiast?node-id=4%3A83)  
-[Help Out](https://www.figma.com/file/BAEdmRXdAFKWjGLucREMVBd0/Blender-Enthusiast?node-id=4%3A21)  
-[In Use](https://www.figma.com/file/BAEdmRXdAFKWjGLucREMVBd0/Blender-Enthusiast?node-id=6%3A97)  
-[Learn](https://www.figma.com/file/BAEdmRXdAFKWjGLucREMVBd0/Blender-Enthusiast?node-id=6%3A173)  
+- [Home](https://www.figma.com/file/BAEdmRXdAFKWjGLucREMVBd0/Blender-Enthusiast?node-id=0%3A1)  
+- [About](https://www.figma.com/file/BAEdmRXdAFKWjGLucREMVBd0/Blender-Enthusiast?node-id=4%3A83)  
+- [Help Out](https://www.figma.com/file/BAEdmRXdAFKWjGLucREMVBd0/Blender-Enthusiast?node-id=4%3A21)  
+- [In Use](https://www.figma.com/file/BAEdmRXdAFKWjGLucREMVBd0/Blender-Enthusiast?node-id=6%3A97)  
+- [Learn](https://www.figma.com/file/BAEdmRXdAFKWjGLucREMVBd0/Blender-Enthusiast?node-id=6%3A173)  
  
 ## Features
 
@@ -58,7 +58,7 @@ In this section, you should go over the different parts of your project, and des
 - Git - Version Control System
 - GitHub - Remote Repository
 - Deployed - Hosted on Github Pages
- 
+
 ### Existing Features
 - Documentation - ReadMe File & Mockups
 - Bootstrap - HTML, CSS Framework
@@ -80,17 +80,17 @@ In this section, you should go over the different parts of your project, and des
 - Git - Version Control System
 - GitHub - Remote Repository
 
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
-
 ### Features Left to Implement
-- Another feature idea
+- Video backgrounds
+- Resizible sections
+- Auto-update software version downloads
 
 ## Technologies Used
 
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
-
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+    - HTML for strucutre
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+    - CSS for Styling
 - [Figma](https://www.figma.com)
     - Development made use of **figma** for creating mockups.
 - [Bootstrap](https://getbootstrap.com/)
@@ -101,6 +101,8 @@ In this section, you should mention all of the languages, frameworks, libraries,
     - This project was built using the **Cloud9** IDE
 - [Github](https://github.com/)
     - Repository hosted on **Github**
+- [Github Pages](https://pattern-projects.github.io/blender-ucd-project/in-use.html)
+    - Website hosted on **Github Pages**
 - [Colour Scheme Designer](https://colorschemedesigner.com/csd-3.5/)
     - Colour scheme developed using **Colour Scheme Designer**
 - [Google PageSpeed Insight](https://developers.google.com/speed/pagespeed/insights/)
