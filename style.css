@@ -71,14 +71,8 @@ a{
      background: url("assets/spring.jpg") no-repeat center center fixed;
  }
 
-#about-landing{
-    height: 40vh;
-    background: url("assets/blenderlogo-white.png") no-repeat center center;
-    background-size: contain;
-}
-
 .profile-container{
-    top: 100px;
+    top:-36px;
     border: 5px solid grey;
     border-radius: 1rem;
 }
