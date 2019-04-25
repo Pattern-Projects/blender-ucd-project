@@ -4,7 +4,7 @@ An information website for Blender software.
 It gives a quality overview of the open source software.
 Users can learn how to use Blender, see example uses and get involved in developing the software.
 They can also download the software.
-
+![Responsive Views of Home Page](assets/responsiveness.png)
 ## UX
  
 ### Users 
