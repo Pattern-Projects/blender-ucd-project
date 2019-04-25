@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Home || Blender Enthusiast</title>
+    <title>About || Blender Enthusiast</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
     <link rel="stylesheet" href="./style.css" type="text/css" />
@@ -15,15 +15,15 @@
 <body>
     <!-------------------------Header--------------------->
     <header>
-    <!-------------------------Spring Call Out--------------------->
+        <!-------------------------Spring Call Out--------------------->
         <div class="spring text-center">
             <div class=" alert alert-warning">
                 <strong>Latest:</strong> Blender Institute's Open Movie <strong>Spring</strong> has been released. <a href="in-use.html#spring" class="link-blue">Click Here</a> to watch now.
             </div>
         </div>
-    <!-------------------------Spring Call Out--------------------->
+        <!-------------------------Spring Call Out--------------------->
 
-    <!-------------------------Nav Bar--------------------->
+        <!-------------------------Nav Bar--------------------->
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
             <a class="navbar-brand" href="index.html">
                 <img src="assets/logo-no-text.png" alt="blender enthusiast logo: a blender-orange open-centered circle over a blender-blue, close-centered circle" class="logo d-sm-none"/>
@@ -53,90 +53,89 @@
                 </ul>
             </div>
         </nav>
-    <!-------------------------Nav Bar--------------------->
+        <!-------------------------Nav Bar--------------------->
     </header>
     <!-------------------------Header--------------------->
 
     <!--------------------------Landing------------------------>
-        <article id="home-landing" class="container-fluid" title="Background image shows a road scene created with the blender software">
-            <section class="container-content">
-                <h1>Blender 3D Creation Software</h1>
-                <h2>Open-Source, Community Driven</h2>
-                <p>Best of All, Free to Use</p>
-            </section>
-            <a role="moves the page down to the main article" href="#main" class="fas fa-chevron-down read-on"></a>
-        </article>
+    <article class="container-fluid">
+
+        <section class="container-content">
+            <div id="about-landing" class="landing row" title="Background image shows a white version of the blender logo">
+                <div class="p-none p-md-4 col-3 mx-auto d-block bg-white profile-container">
+                    <img src="assets/blender-logo.png" alt="Blender Logo" class=" m-auto profile">
+                </div>
+            </div>
+            <p>We want to build a free and open source complete 3D creation pipeline for artists and small teams.</p>
+        </section>
+    </article>
     <!--------------------------Landing------------------------>
 
     <!--------------------------Main------------------------>
 
     <main id="main">
-      
         <article class="container-content">
+            <!--------------------------Features------------------------>
+            <section>
+                <h2 class="mx-2">Features</h2>
+                <!----------------------Advantages-------------------->
+                <div class="row">
+
+                    <div class="mx-auto mb-3 col-12 col-md-4">
+                        <div class="card">
+                            <div class="card-body">
+                                <img src="assets/create-assets.jpg" alt="A character asset created with the software" class="rounded mx-auto d-block" />
+                                <h3 class="card-title">Open Source</h3>
+                                <p class="mt-2">Blender includes production ready camera and object tracking. Allowing you to import raw footage, track the footage, mask areas and see the camera movements live in your 3d scene.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="mx-auto mb-3 col-12 col-md-4">
+                        <div class="card">
+                            <div class="card-body">
+                                <img src="assets/animation.jpg" alt="A character asset in standing and resting poses" class="rounded mx-auto d-block" />
+                                <h3 class="card-title">Free to Use</h3>
+                                <p class="mt-2">Blender includes production ready camera and object tracking. Allowing you to import raw footage, track the footage, mask areas and see the camera movements live in your 3d scene.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="mx-auto mb-3 col-12 col-md-4">
+                        <div class="card">
+                            <div class="card-body">
+                                <img src="assets/animation.jpg" alt="A character asset in standing and resting poses" class="rounded mx-auto d-block" />
+                                <h3 class="card-title">Community Driven</h3>
+                                <p class="mt-2">Blender includes production ready camera and object tracking. Allowing you to import raw footage, track the footage, mask areas and see the camera movements live in your 3d scene.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <!----------------------Licence-------------------->
+                <div class="row">
+
+                    <div class="mx-auto mb-3 col-12 col-md-8 col-lg-6">
+
+                        <h3>Blender is released under the GNU General Public License</h3>
+
+                        <p>You are free to use Blender, for any purpose<br> You are free to distribute Blender<br> You can study how Blender works and change it<br> You can distribute changed versions of Blender</p>
+
+
+                    </div>
+
+                </div>
+
+            </section>
+            <!--------------------------Features------------------------>
+
             <!--------------------------Download CTA------------------------>
             <section role="Call to action, download the software" class="card text-center my-4 mx-2">
                 <!--Call to Action-->
                 <div class="cta-download">
                     <h1>Free Download</h1>
-                    <a href="assets/blender-2.79b-windows64" download class="btn btn-warning">Blender 2.79b</a> <br>
-                    Or try <a href="assets/blender-2.80-c9ed39925a51-win64" download><span class="link-blue">2.80 beta</span></a>
+                    <a href="assets/blender-2.79b-windows64" download class="btn btn-warning">Blender 2.79b</a> <br> Or try <a href="assets/blender-2.80-c9ed39925a51-win64" download><span class="link-blue">2.80 beta</span></a>
                 </div>
             </section>
             <!--------------------------Download CTA------------------------>
-    
-            <!--------------------------Features------------------------>
-            <section>
-                <h2 class="mx-2">Features</h2>
-                    <!----------------------Row One-------------------->
-                    <div class="row">
-                        
-                        <div class="mx-auto mb-3 col-12 col-md-8 col-lg-6">
-                            <div class="card">
-                                <div class="card-body">
-                                    <h3 class="card-title">Create Assets</h3>
-                                    <img src="assets/create-assets.jpg" alt="A character asset created with the software" class="rounded mx-auto d-block"/>
-                                    <p class="mt-2">Blender includes production ready camera and object tracking. Allowing you to import raw footage, track the footage, mask areas and see the camera movements live in your 3d scene.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="mx-auto mb-3 col-12 col-md-8 col-lg-6">
-                            <div class="card">
-                                <div class="card-body">
-                                    <h3 class="card-title">Animation</h3>
-                                    <img src="assets/animation.jpg" alt="A character asset in standing and resting poses" class="rounded mx-auto d-block"/>
-                                    <p class="mt-2">Blender includes production ready camera and object tracking. Allowing you to import raw footage, track the footage, mask areas and see the camera movements live in your 3d scene.</p>
-                                </div>
-                            </div>
-                        </div>
-                        
-                    </div>
-                    <!----------------------Row Two-------------------->
-                    <div class="row">
-                        
-                        <div class="mx-auto mb-3 col-12 col-md-8 col-lg-6">
-                            <div class="card">
-                                <div class="card-body">
-                                    <h3 class="card-title">Material Design</h3>
-                                    <img src="assets/material-design.jpg" alt="Interior train scene showing generated materials: metal, glass, fabric, paper" class="rounded mx-auto d-block"/>
-                                    <p class="mt-2">Blender includes production ready camera and object tracking. Allowing you to import raw footage, track the footage, mask areas and see the camera movements live in your 3d scene.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="mx-auto mb-3 col-12 col-md-8 col-lg-6">
-                            <div class="card">
-                                <div class="card-body">
-                                    <h3 class="card-title">VFX</h3>
-                                    <img src="assets/vfx.jpg" alt="A large building being destroyed by colliding meteor" class="rounded mx-auto d-block"/>
-                                    <p class="mt-2">Blender includes production ready camera and object tracking. Allowing you to import raw footage, track the footage, mask areas and see the camera movements live in your 3d scene.</p>
-                                </div>
-                            </div>
-                        </div>
-                        
-                    </div>
-
-            </section>
-            <!--------------------------Features------------------------>
-
         </article>
     </main>
     <!--------------------------Main------------------------>
