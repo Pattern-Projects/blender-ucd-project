@@ -133,9 +133,17 @@ a {
     transition: color 0.5s;
 }
 
-.link-blue:hover {
+.link-dark {
+    color: #212529;
+    text-decoration: underline;
+    transition: color 0.5s;
+}
+
+.link-blue:hover, .link-dark:hover {
     color: #EA7600;
 }
+
+
 
 /*-----------------------Call To Action-----------------------*/
 
@@ -174,11 +182,6 @@ a {
 
 .advantage:hover i {
     color: #EA7600;
-}
-
-.link-dark {
-    color: #212529;
-    text-decoration: underline;
 }
 
 .r-text {

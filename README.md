@@ -169,6 +169,7 @@ The images for the website are taken from:
 Thank you to the following for inspiration, motivation and the direction I needed:
 
 - Andrew Price
+- Grant Abbitt
 - Ton Roosendaal
 - Blender Institute
 
