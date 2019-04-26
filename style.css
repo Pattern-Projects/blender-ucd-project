@@ -145,6 +145,13 @@ height: 100%;
 .advantage i{
     font-size: 5rem;
 }
+
+.link-dark{
+    color: #212529;
+    text-decoration: underline;
+}
+
+
 /*-----------------------Cards-----------------------*/
 
 /*-----------------------Footer-----------------------*/
