@@ -166,7 +166,7 @@ Suggestions provided to improve mobile performance include:
 
 ### Bugs
 1. Home screen - large image fit changes by screen
-    ![Mobile view with and without browser bar](/documentation/format-mobile.png =150x)
+    ![Mobile view with and without browser bar](/documentation/format-mobile.png)
     - On mobile the browser bar pushes down the webpage.
     - Bottom of the page is off screen
 2. Irregular image error on firefox.
