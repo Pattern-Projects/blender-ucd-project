@@ -191,6 +191,7 @@ a {
 
 .card-link{
     color: #212529;
+    transition: color 0.5s;
 }
 
 .card-link:hover{
