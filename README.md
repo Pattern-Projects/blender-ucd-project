@@ -153,6 +153,11 @@ In addition, you should mention in this section how your project looks and works
 
 You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
 
+### HTML Check
+
+Using W3's [Nu HTML Checker](https://validator.w3.org/nu/)
+![Warning: The document is not mappable to XML 1.0 due to two consecutive hyphens in a comment.](documentation/comment-issue.png)
+
 ### Performance
 
 Using Google's [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) the website was tested for network performance.
