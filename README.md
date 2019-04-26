@@ -4,7 +4,7 @@ An information website for Blender software.
 It gives a quality overview of the open source software.
 Users can learn how to use Blender, see example uses and get involved in developing the software.
 They can also download the software.
-![Responsive Views of Home Page](assets/responsiveness.png)
+![Responsive Views of Home Page](documentation/responsiveness.png)
 ## UX
  
 ### Users 
@@ -21,6 +21,16 @@ They come to the website with questions in need of answering.
 7. A 3D artist user wants to improve their skills
 8. An education professional user wants to share learning material with their students
 9. A developer user wants to become involved in the developing of blender software
+
+### Design
+
+- Colour scheme made taken from blender logo colors
+    - blender-orange:   #EA7600
+    - blender-blue:     #0E548B
+- Custom designed logo using base shapes of the blender logo
+- Profile style image box for the About page gives a personality to the software
+- roboto font used throughout the website
+    - font-family: 'Roboto', 'helvetica' sans-serif;
 
 ### Mockups
 
@@ -44,6 +54,7 @@ In this section, you should go over the different parts of your project, and des
     - User Flow
     - Animations
     - Transitions
+    - Smooth Scrolling
 - Accesibility
 - Large Landing Page - Full screen landing image
 - Semantic HTML - nav, article, etc
@@ -70,20 +81,28 @@ In this section, you should go over the different parts of your project, and des
     - User Flow
     - Transitions
     - Smooth Scrolling
+- Accesibility
 - Large Landing Page - Full screen landing image
 - Semantic HTML - nav, article, etc
 - Call to Action - Download Button
 - Alert - Open Movie Call Out
-- Social Buttons - Twitter, Discord, Linkedin
+- Social Buttons - Twitter, Facebook, Slack, YouTube
+- Colour Scheme
 - Custom Logo
 - Favicon
 - Git - Version Control System
 - GitHub - Remote Repository
+- Deployed - Hosted on Github Pages
 
 ### Features Left to Implement
+These features may be added at a later time.
 - Video backgrounds
+- Full page image background
 - Resizible sections
 - Auto-update software version downloads
+- Animations
+- Feedback Form
+- Live feed
 
 ## Technologies Used
 
@@ -127,9 +146,38 @@ For any scenarios that have not been automated, test the user stories manually a
 In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
 
 You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-###Bugs
+
+### Performance
+
+Using Google's [PageSpeed Insights]() the website was tested for network performance.
+The results were:
+- Desktop:  100%
+- Mobile:   99%
+
+Suggestions provided to improve mobile performance include:
+- Serve images in next-gen formats
+- Eliminate render-blocking resources
+
+### Bugs
 1. Home screen - large image fit changes by screen
-2. Need to add alt to images
+    ![Mobile view with and without browser bar](/documentation/format-mobile.png)
+    - On mobile the browser bar pushes down the webpage.
+    - Bottom of the page is off screen
+2. Irregular image error on firefox.
+    - [Image corrupt or truncated.]
+    - [This StackOverflow link refers to JQuery as the source of the issue](https://stackoverflow.com/questions/32459621/how-to-handle-image-corrupt-or-truncated-in-firefox)
+    - Bootstrap jquey links added to the bottom of the pages are the likely culprit
+    - Further investigation required
+
+### Bug Fixes
+1. test-file.txt not downloading after dialog box
+    - The file was not stored in assets folder so that addresses were incorrect
+    - Moved test-file.txt to the assets folder
+    - Issue resolved
+2. Cannot move navbar items to the right
+    - navbar div had a mr-auto class holding it in place
+    - Changed it to ml-auto
+    - Issue resolved
 
 If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
