@@ -189,15 +189,20 @@ If this section grows too long, you may want to split it off into a separate fil
 
 ## Deployment
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
+The project is hosted on [GitHub Pages](https://pattern-projects.github.io/blender-ucd-project/index.html)
 
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
-- Different values for environment variables (Heroku Config Vars)?
-- Different configuration files?
-- Separate git branch?
+The process involved:
+- Host a git repository on GitHub. Explained [here](https://help.github.com/en/articles/create-a-repo).
+- root folder contains README.md and index.html files
+- On GitHub repository settings page move to GitHub Pages section
+- Change source to master branch. (Or any desired brance)
+- Provided link will be your projects home (index) page.
 
-In addition, if it is not obvious, you should also describe how to run your code locally.
+The benefits of hosting your website on GitHub pages is that any pushed changes to your project will automatically update the website. Development branches can be created and merged to the master when complete.
 
+It may take a moment for changes to appear on the hosted website.
+
+During development the site is hosted using cloud9's local server feature. It runs in the browser.
 
 ## Credits
 
