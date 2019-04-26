@@ -27,12 +27,11 @@ They come to the website with questions in need of answering.
 9. A developer user wants to become involved in the developing of blender software
 
 ### Design
-
+![Custom blender enthusiast logo](documentation/logo.png)
 - Colour scheme made taken from blender logo colors
     - blender-orange:   ![#EA7600](https://placehold.it/15/EA7600/000000?text=+) `#EA7600`
     - blender-blue:     ![#0E548B](https://placehold.it/15/0E548B/000000?text=+) `#0E548B`
 - [Custom designed logo](documentation/logo-no-text.png) using base shapes of the [blender logo](documentation/blender-logo.png)
-    ![Custom blender enthusiast logo](documentation/logo.png)
 - Profile style image box for the About page gives a personality to the software
 - roboto font used throughout the website
     - font-family: 'Roboto', 'helvetica' sans-serif;
@@ -167,7 +166,7 @@ Suggestions provided to improve mobile performance include:
 
 ### Bugs
 1. Home screen - large image fit changes by screen
-    ![Mobile view with and without browser bar](/documentation/format-mobile.png)
+    ![Mobile view with and without browser bar](/documentation/format-mobile.png =200x)
     - On mobile the browser bar pushes down the webpage.
     - Bottom of the page is off screen
 2. Irregular image error on firefox.
