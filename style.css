@@ -143,8 +143,6 @@ a {
     color: #EA7600;
 }
 
-
-
 /*-----------------------Call To Action-----------------------*/
 
 /*-----------------------Cards-----------------------*/
@@ -208,8 +206,8 @@ footer {
     background-color: #0E548B;
     color: #f2f2f2;
     padding: 10px;
+    padding-bottom: 60px;
     text-align: center;
-    /*display: none;*/
 }
 
 footer a {
