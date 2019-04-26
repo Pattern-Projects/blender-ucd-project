@@ -175,5 +175,5 @@ Thank you to the following for inspiration, motivation and the direction I neede
 - [CSS-Tricks](https://css-tricks.com/)
 
 
-- Suen Owonikoko
+- Seun Owonikoko
 - Code Institute
