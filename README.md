@@ -4,9 +4,13 @@ An information website for Blender software.
 It gives a quality overview of the open source software.
 Users can learn how to use Blender, see example uses and get involved in developing the software.
 They can also download the software.
-![Responsive Views of Home Page](documentation/responsiveness.png)
+
+Hosted on [GitHub Pages](https://pattern-projects.github.io/blender-ucd-project/index.html)
+Repository on [GitHub](https://github.com/Pattern-Projects/blender-ucd-project)
+
 ## UX
- 
+![Responsive Views of Home Page](documentation/responsiveness.png)
+
 ### Users 
 Expected users of the website include 3D artists, educators, software developers and students of all kinds. 
 They come to the website with questions in need of answering.
@@ -25,9 +29,10 @@ They come to the website with questions in need of answering.
 ### Design
 
 - Colour scheme made taken from blender logo colors
-    - blender-orange:   #EA7600
-    - blender-blue:     #0E548B
-- Custom designed logo using base shapes of the blender logo
+    - blender-orange:   ![#EA7600](https://placehold.it/15/EA7600/000000?text=+) `#EA7600`
+    - blender-blue:     ![#0E548B](https://placehold.it/15/0E548B/000000?text=+) `#0E548B`
+- [Custom designed logo](documentation/logo-no-text.png) using base shapes of the [blender logo](documentation/blender-logo.png)
+    ![Custom blender enthusiast logo](documentation/logo.png)
 - Profile style image box for the About page gives a personality to the software
 - roboto font used throughout the website
     - font-family: 'Roboto', 'helvetica' sans-serif;
@@ -112,6 +117,8 @@ These features may be added at a later time.
     - CSS for Styling
 - [Figma](https://www.figma.com)
     - Development made use of **figma** for creating mockups.
+- [Inkscape](https://inkscape.org)
+    - Custom logo created using **Inkscape**.
 - [Bootstrap](https://getbootstrap.com/)
     - HTML and CSS Framework from **Bootstrap**
 - [Font Awesome](https://fontawesome.com/)
@@ -149,7 +156,7 @@ You should also mention in this section any interesting bugs or problems you dis
 
 ### Performance
 
-Using Google's [PageSpeed Insights]() the website was tested for network performance.
+Using Google's [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) the website was tested for network performance.
 The results were:
 - Desktop:  100%
 - Mobile:   99%
