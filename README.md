@@ -11,6 +11,11 @@ Repository on [GitHub](https://github.com/Pattern-Projects/blender-ucd-project)
 ## License
 The project is shared for use with the [GNU General Public License v3](LICENCE)
 
+>   This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
 ## UX
 ![Responsive Views of Home Page](documentation/responsiveness.png)
 
