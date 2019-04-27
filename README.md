@@ -20,7 +20,7 @@ They come to the website with questions in need of answering.
 2. A 3D artist user wants to download the latest version of blender
 3. A technology enthusiast user wants a prerelease version of the software
 4. A law student user wants to learn about the open software licence structure
-5. An education professional user wants learn about the research process if blender
+5. An education professional user wants learn about the research process of blender
 6. A 3D artist user wants to learn the software
 7. A 3D artist user wants to improve their skills
 8. An education professional user wants to share learning material with their students
@@ -100,6 +100,8 @@ In this section, you should go over the different parts of your project, and des
 
 ### Features Left to Implement
 These features may be added at a later time.
+- Add Blender organisation description to About page
+- Add Blender organisational chart to About page
 - Video backgrounds
 - Full page image background
 - Resizible sections
@@ -137,25 +139,40 @@ These features may be added at a later time.
 
 ## Testing
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+The site was tested through a number of means.
 
-Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
-
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
-
-1. Contact form:
-    1. Go to the "Contact Us" page
-    2. Try to submit the empty form and verify that an error message about the required fields appears
-    3. Try to submit the form with an invalid email address and verify that a relevant error message appears
-    4. Try to submit the form with all inputs valid and verify that a success message appears.
-
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
+### User Stories
+The user stories created during the design phase were inacted:
+1. A student user wants to learn more about the blender software
+    - From the Home page through the others the user learns about the software
+2. A 3D artist user wants to download the latest version of blender
+    - On the Home page the user clicks the main download button
+    - The user clicks ok in the dialog box
+    - The file is downloaded
+3. A technology enthusiast user wants a prerelease version of the software
+    - On the Home page the user clicks the 2.80 download button
+    - The user clicks ok in the dialog box
+    - The file is downloaded
+4. A law student user wants to learn about the open software licence structure
+    - On the About page the user reads the allowances provided by the GNU General Public License
+5. ~~An education professional user wants learn about the research process of blender~~
+    - This task is outside the purvue of the completed site
+    - A section could be added at a later date to include this information
+6. A 3D artist user wants to learn the software
+    - The software is downloaded from an available link
+    - From the Learn page the user finds the Blender Cloud link
+7. A 3D artist user wants to improve their skills
+    - From the Learn page the user finds lessons on using the software
+8. An education professional user wants to share learning material with their students
+    - From the In Use page the user finds links to complete projects to share with students
+    - From the Learn page the user finds links to dedicated study websites
+9. A developer user wants to become involved in the developing of blender software
+    - From the Help Out page the user learns about the process of developing for Blender
+    - From the Help Out page they connect to the Blender developer hub
 
 ### HTML Check
 
-![Warning: The document is not mappable to XML 1.0 due to two consecutive hyphens in a comment](documentation/comment-issue.PNG)
+![Warning: The document is not mappable to XML 1.0 due to two consecutive hyphens in a comment](documentation/comment-issue.png)
 
 Using W3's [Nu HTML Checker](https://validator.w3.org/nu/) the website was checked for structure and syntax validation.
 
@@ -169,7 +186,7 @@ Issues returned were of the following type:
 
 Using Google's [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) the website was tested for network performance.
 The results were:
-- [Desktop:  100%](documentation/desktop-performance.PNG)
+- [Desktop:  100%](documentation/desktop-performance.png)
 - [Mobile:   99%](documentation/mobile-performance.png)
 
 Suggestions provided to improve mobile performance include:
@@ -207,7 +224,7 @@ The process involved:
 - Host a git repository on GitHub. Explained [here](https://help.github.com/en/articles/create-a-repo).
 - root folder contains README.md and index.html files
 - On GitHub repository settings page move to GitHub Pages section
-- Change source to master branch. (Or any desired brance)
+- Change source to master branch. (Or any desired branch)
 - Provided link will be your projects home (index) page.
 
 The benefits of hosting your website on GitHub pages is that any pushed changes to your project will automatically update the website. Development branches can be created and merged to the master when complete.
