@@ -156,7 +156,7 @@ The user stories created during the design phase were inacted:
 4. A law student user wants to learn about the open software licence structure
     - On the About page the user reads the allowances provided by the GNU General Public License
 5. ~~An education professional user wants learn about the research process of blender~~
-    - This task is outside the purvue of the completed site
+    - This task is outside the purview of the completed site
     - A section could be added at a later date to include this information
 6. A 3D artist user wants to learn the software
     - The software is downloaded from an available link
