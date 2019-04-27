@@ -241,8 +241,8 @@ footer {
     text-align: center;
 }
 
-footer .container-fluid{
-        padding-bottom: 40px !important;
+.footer-fix{
+    height: 40px;
 }
 
 footer a {
