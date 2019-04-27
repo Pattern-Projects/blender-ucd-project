@@ -116,18 +116,28 @@ These features may be added at a later time.
     - HTML for strucutre
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
     - CSS for Styling
+- [Google Chrome](https://www.google.com/chrome/)
+    - Used for browser and dev tools
+- [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new)
+    - Used for browser and dev tools
 - [Figma](https://www.figma.com)
     - Development made use of **figma** for creating mockups.
 - [Inkscape](https://inkscape.org)
     - Custom logo created using **Inkscape**.
+- [Google](https://www.google.com/)
+    - **Google** was used for research.
 - [Bootstrap](https://getbootstrap.com/)
     - HTML and CSS Framework from **Bootstrap**
+    - [**JQuery**](https://jquery.com/) used by Bootstrap components
+    - [**JavaScript**](https://www.w3schools.com/js/) used by Bootstrap components
 - [Font Awesome](https://fontawesome.com/)
     - Icons used are sourced from **Font Awesome**
 - [Cloud9](https://c9.io/)
     - This project was built using the **Cloud9** IDE
-- [Github](https://github.com/)
-    - Repository hosted on **Github**
+- [Git](https://git-scm.com/)
+    - **Git** used for Version Control
+- [GitHub](https://github.com/)
+    - Repository hosted on **GitHub**
 - [Github Pages](https://pattern-projects.github.io/blender-ucd-project/in-use.html)
     - Website hosted on **Github Pages**
 - [Colour Scheme Designer](https://colorschemedesigner.com/csd-3.5/)
