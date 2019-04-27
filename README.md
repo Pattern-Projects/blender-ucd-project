@@ -291,8 +291,11 @@ During development the site is hosted using cloud9's local server feature. It ru
 ## Credits
 
 ### Content
-Some of the text on the website has been copied from:  
+The text on the website has been copied from:  
 - [blender.org](https://www.blender.org/)
+- [Blender Cloud](https://cloud.blender.org/welcome)
+- [Grant Abbitt](https://twitter.com/grantabbitt?lang=en)
+- [Blender Guru](https://www.youtube.com/user/AndrewPPrice/featured)
 
 ### Media
 The images for the website are taken from:
