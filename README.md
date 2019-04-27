@@ -155,15 +155,21 @@ You should also mention in this section any interesting bugs or problems you dis
 
 ### HTML Check
 
-Using W3's [Nu HTML Checker](https://validator.w3.org/nu/)
+Using W3's [Nu HTML Checker](https://validator.w3.org/nu/) the website was checked for structure and syntax validation.
+
+Many issues return were of the following type:
 ![Warning: The document is not mappable to XML 1.0 due to two consecutive hyphens in a comment.](documentation/comment-issue.png)
+These were a straightforward fix, changing hyphens for asterisks.
+
+Another repeat issue was the misuse of the role attribute.
+This was solved by removing unneccessary roles and adding correct roles where neccessary.
 
 ### Performance
 
 Using Google's [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) the website was tested for network performance.
 The results were:
-- Desktop:  100%
-- Mobile:   99%
+- [Desktop:  100%](documentation/desktop-performance.png)
+- [Mobile:   99%](documentation/mobile-performance.png)
 
 Suggestions provided to improve mobile performance include:
 - Serve images in next-gen formats
