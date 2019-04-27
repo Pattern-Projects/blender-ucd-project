@@ -190,8 +190,8 @@ Using W3's [Nu HTML Checker](https://validator.w3.org/nu/) the website was check
 Issues returned were of the following type:
 - Warning: The document is not mappable to XML 1.0 due to two consecutive hyphens in a comment
     - These were a straightforward fix, changing hyphens for asterisks.
-- Error: Bad value opens dropdown on mobile screens for attribute role on element button.
-    -This was solved by removing unneccessary roles and adding correct roles where neccessary.
+- Error: Bad value opens dropdown on mobile screens for attribute role on element button.  
+    - This was solved by removing unneccessary roles and adding correct roles where neccessary.
 
 Solving the remaining errors and warnings is outside of the current scope of the project
 
@@ -214,14 +214,15 @@ Suggestions provided to improve mobile performance include:
     - This [Google Developers](https://developers.google.com/web/fundamentals/native-hardware/fullscreen/#fake_it_auto-hide_the_address_bar) page describes solutions to this issue
     - These solutions are either hacky or outside of the current scope of the project
     - They may be revisited at a later date
-2. Irregular image error on firefox.
+2. Irregularly occuring image error on firefox.
     - [Image corrupt or truncated.]
+    - Does not appear on every refresh.
     - This [StackOverflow link](https://stackoverflow.com/questions/32459621/how-to-handle-image-corrupt-or-truncated-in-firefox) refers to JQuery as the source of the issue
     - Bootstrap jquey links added to the bottom of the pages are the likely culprit
     - Further investigation required
 3. There is what looks like a [single pixel gap](documentation/gap.png) to the right of the page
     - It can be detected by increasing the page zoom and looking at the footer
-    - It appears this gap is found on many website including [blender.org](https://www.blender.org/) and [getbootstrap.com](https://getbootstrap.com/)
+    - It appears this gap is found on many websites including [blender.org](https://www.blender.org/) and [getbootstrap.com](https://getbootstrap.com/)
     - If it is a bug at all it is outside the scope to the project to solve it
 
 ### Bug Fixes
@@ -281,6 +282,8 @@ The images for the website are taken from:
 - [Lukas Walzer](https://www.artstation.com/lukas_walzer)
 - [Rico Cilliers](https://www.artstation.com/ricocilliers)
 - [Lester Banks](https://lesterbanks.com/2014/10/demolishing-building-blender/)
+- [Grant Abbitt](https://www.artstation.com/artwork/dO44le)
+- [Blender Nation](https://www.blendernation.com/headers/blender-developers-improved/)
 - [LinkedIn Learning](https://www.linkedin.com/learning/sculpting-a-game-asset-in-blender)
 - [Udemy](https://www.udemy.com/character-animation-for-beginners/)
 - [User Elbrujodelatribu - Stack Exchange](https://blender.stackexchange.com/questions/5593/any-good-free-materials-libraries-online)
