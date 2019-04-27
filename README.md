@@ -182,6 +182,8 @@ Issues returned were of the following type:
 - Error: Bad value opens dropdown on mobile screens for attribute role on element button.
     -This was solved by removing unneccessary roles and adding correct roles where neccessary.
 
+Solving the remaining errors and warnings is outside of the current scope of the project
+
 ### Performance
 
 Using Google's [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) the website was tested for network performance.
@@ -267,5 +269,7 @@ Thank you to the following for inspiration, motivation and the direction I neede
 - [CSS-Tricks](https://css-tricks.com/)
 
 
-- Seun Owonikoko
+- Seun Owonikoko    @seun_mentor
+- Anna Greaves      @Anna_lead
+- Simen Daehlin     @Eventyret_mentor
 - Code Institute

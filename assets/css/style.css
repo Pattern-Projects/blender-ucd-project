@@ -74,13 +74,13 @@ a {
 
 #home-landing {
     height: 88vh;
-    background: url("assets/road.jpg") no-repeat center center fixed;
+    background: url("../images/road.jpg") no-repeat center center fixed;
 
 }
 
 #in-use-landing {
     height: 40vh;
-    background: url("assets/spring.jpg") no-repeat center center fixed;
+    background: url("../images/spring.jpg") no-repeat center center fixed;
 }
 
 .profile-container {
