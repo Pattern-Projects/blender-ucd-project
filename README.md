@@ -277,7 +277,7 @@ Thank you to the following for inspiration, motivation and the direction I neede
 - Blender Institute
 
 - [CSS-Tricks](https://css-tricks.com/)
-
+- [Avex Designs](https://avexdesigns.com/)
 
 - Seun Owonikoko    @seun_mentor
 - Anna Greaves      @Anna_lead

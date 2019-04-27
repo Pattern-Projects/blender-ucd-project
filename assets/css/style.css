@@ -1,5 +1,5 @@
 /*-----------------------Body-----------------------*/
-
+/*For smooth scrolling when clicking anchor links*/
 html {
     scroll-behavior: smooth;
 }
@@ -23,6 +23,7 @@ body {
     padding: 0
 }
 
+/*This nice white is easy on the eyes*/
 a {
     color: #f2f2f2;
 }
@@ -32,11 +33,12 @@ a {
 /*-----------------------Header-----------------------*/
 
 /*Spring Movie Call Out*/
-
+/*Hide spring callout alert on mobile view*/
 .spring {
     display: none;
 }
 
+/*Add a nice small gap between alert and nav*/
 .alert {
     margin-bottom: 0.2rem;
 }
@@ -58,6 +60,7 @@ a {
     display: flex;
 }
 
+/*Landing image to cover full width of container*/
 .landing {
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -95,6 +98,7 @@ a {
     width: 100%;
 }
 
+/*Give the profile a glow and shadow when hovered over*/
 .profile-container:hover {
     box-shadow: 0 2rem 3rem rgba(0, 0, 0, .175)!important;
     background-color: #fff2b0 !important;
@@ -104,6 +108,7 @@ a {
 
 /*-----------------------Call To Action-----------------------*/
 
+/*Center at bottom of landing*/
 .read-on {
     color: #f2f2f2;
     position: absolute;
@@ -112,6 +117,7 @@ a {
     transition: all 0.8s;
 }
 
+/*Give blender orange color when hovered*/
 .read-on:hover {
     text-decoration: none;
     font-size: 3.5rem;
@@ -129,6 +135,7 @@ a {
     color: #212529;
 }
 
+/*link classes used for appropriate link styling*/
 .link-blue {
     color: #007bff;
     transition: color 0.5s;
@@ -152,6 +159,8 @@ a {
     width: 100%;
 }
 
+/*In-use - Create a responsive embedded video experience*/
+/*https://avexdesigns.com/responsive-youtube-embed/*/
 .video-container {
     position: relative;
     padding-bottom: 56.25%;
@@ -179,10 +188,12 @@ a {
     transition: color 1.2s;
 }
 
+/*Nice blender-orange glow when hovered*/
 .advantage:hover i {
     color: #EA7600;
 }
 
+/*Learn - Move image to top on right leaning segments*/
 .r-text {
     order: 2;
 }
@@ -191,6 +202,7 @@ a {
     order: 1;
 }
 
+/*Learn - blender orange link glow*/
 .card-link{
     color: #212529;
     transition: color 0.5s;
@@ -220,6 +232,7 @@ footer a:hover {
     color: #EA7600;
 }
 
+/*Dont spread out too far on large screens*/
 .text-container {
     margin: 0 auto;
     width: 300px;
@@ -260,6 +273,7 @@ footer a:hover {
         height: 87vh;
     }
 
+/*Images on the right*/
     .r-text{
         order: 1;
     }
