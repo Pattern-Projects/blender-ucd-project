@@ -198,9 +198,12 @@ Suggestions provided to improve mobile performance include:
     ![Mobile view with and without browser bar](/documentation/format-mobile.png)
     - On mobile the browser bar pushes down the webpage.
     - Bottom of the page is off screen
+    - This [Google Developers](https://developers.google.com/web/fundamentals/native-hardware/fullscreen/#fake_it_auto-hide_the_address_bar) page describes solutions to this issue
+    - These solutions are either hacky or outside of the current scope of the project
+    - They may be revisited at a later date
 2. Irregular image error on firefox.
     - [Image corrupt or truncated.]
-    - [This StackOverflow link refers to JQuery as the source of the issue](https://stackoverflow.com/questions/32459621/how-to-handle-image-corrupt-or-truncated-in-firefox)
+    - This [StackOverflow link](https://stackoverflow.com/questions/32459621/how-to-handle-image-corrupt-or-truncated-in-firefox) refers to JQuery as the source of the issue
     - Bootstrap jquey links added to the bottom of the pages are the likely culprit
     - Further investigation required
 
