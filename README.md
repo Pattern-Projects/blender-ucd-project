@@ -8,6 +8,9 @@ They can also download the software.
 Hosted on [GitHub Pages](https://pattern-projects.github.io/blender-ucd-project/index.html)
 Repository on [GitHub](https://github.com/Pattern-Projects/blender-ucd-project)
 
+## License
+The project is shared for use with the [GNU General Public License v3](LICENCE)
+
 ## UX
 ![Responsive Views of Home Page](documentation/responsiveness.png)
 
