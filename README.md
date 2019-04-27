@@ -324,4 +324,5 @@ Thank you to the following for inspiration, motivation and the direction I neede
 - Seun Owonikoko    @seun_mentor
 - Anna Greaves      @Anna_lead
 - Simen Daehlin     @Eventyret_mentor
+- Joke Heyndels     @JoWings
 - Code Institute
