@@ -153,6 +153,8 @@ These features may be added at a later time.
     - Colour scheme developed using **Colour Scheme Designer**
 - [Google PageSpeed Insight](https://developers.google.com/speed/pagespeed/insights/)
     - Used to test the websites performance efficiency
+- [InfoByIp Resolution Test](http://www.infobyip.com/testwebsiteresolution.php)
+    - Used to test the websites resolution testing
 - [Nu HTML checker](https://validator.w3.org/nu/)
     - Used to test the website for errors
 
@@ -213,6 +215,11 @@ The results were:
 Suggestions provided to improve mobile performance include:
 - Serve images in next-gen formats
 - Eliminate render-blocking resources
+
+### Resolution
+
+The website was viewed at various resolutions using [InfoByIp Resolution Test](http://www.infobyip.com/testwebsiteresolution.php).
+The website looks well at high and low resolutions.
 
 ### Bugs
 1. Home screen - large image fit changes by screen
