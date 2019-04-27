@@ -218,6 +218,10 @@ Suggestions provided to improve mobile performance include:
     - This [StackOverflow link](https://stackoverflow.com/questions/32459621/how-to-handle-image-corrupt-or-truncated-in-firefox) refers to JQuery as the source of the issue
     - Bootstrap jquey links added to the bottom of the pages are the likely culprit
     - Further investigation required
+3. There is what looks like a [single pixel gap](https://github.com/Pattern-Projects/blender-ucd-project.git) to the right of the page
+    - It can be detected by increasing the page zoom and looking at the footer
+    - It appears this gap is found on many website including [blender.org](https://www.blender.org/) and [getbootstrap.com](https://getbootstrap.com/)
+    - If it is a bug at all it is outside the scope to the project to solve it
 
 ### Bug Fixes
 1. test-file.txt not downloading after dialog box
@@ -248,9 +252,9 @@ To deploy your own version of the website:
 - Open a terminal in your root directory
 - Type 'git clone ' followed by the code taken from github repository
     - ```git clone https://github.com/Pattern-Projects/blender-ucd-project.git```
-- When this completes you have your own version of te website
+- When this completes you have your own version of the website
     - Feel free to make any changes to it
-- Run the project within your IDE
+- The website can be run by opening one of the HTML files within a web browser
 - Visit the link provided
 - Your website with any made changes will appear
 - Saved changes to the website will appear here after refreshing the page
