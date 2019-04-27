@@ -205,6 +205,11 @@ Issues returned were of the following type:
 
 Solving the remaining errors and warnings is outside of the current scope of the project
 
+### CSS Validation
+The websites CSS was tested with W3's [Jigsaw](https://jigsaw.w3.org/css-validator/) CSS Validation Service. 
+Many Errors and warnings were returned. These originate at the Bootstrap CSS files. 
+Fixing these issues is outside the scope of the project.
+
 ### Performance
 
 Using Google's [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) the website was tested for network performance.
@@ -239,6 +244,7 @@ The website looks well at high and low resolutions.
     - It can be detected by increasing the page zoom and looking at the footer
     - It appears this gap is found on many websites including [blender.org](https://www.blender.org/) and [getbootstrap.com](https://getbootstrap.com/)
     - If it is a bug at all it is outside the scope to the project to solve it
+    - Raised a question on [StackOverflow](https://stackoverflow.com/questions/55883390/small-gap-to-right-of-html-pages-is-this-a-bug-or-just-a-quirk-of-web-browsers) regarding this.
 
 ### Bug Fixes
 1. test-file.txt not downloading after dialog box
